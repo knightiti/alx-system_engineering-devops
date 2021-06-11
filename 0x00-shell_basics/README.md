@@ -1,0 +1,1 @@
+This task contains the script that prints the absolute path of a working directory
