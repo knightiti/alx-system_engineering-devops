@@ -1,4 +1,5 @@
 #!/bin/bash
-ls -n
+ls -lna
+
 
 
